@@ -1,0 +1,14 @@
+# Site settings
+name: Mike Wang
+email: mike@hotmail.com
+job_title: Student
+institution: UIUC
+institution_URL: illinois.edu
+baseurl: "" # not sure if we'll use this
+url: "" # https://username.github.io
+twitter_username: cwang99
+github_username: cwang99
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
